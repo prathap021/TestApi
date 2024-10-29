@@ -9,9 +9,7 @@
             "type": "application/opds+json"
         }
     ],
-    "navigation": [
     
-    ],
     "groups": [
         {
             "metadata": {
@@ -230,14 +228,6 @@
         },
         {
             "metadata": {
-                "title": "More Navigation"
-            },
-            "navigation": [
-               
-            ]
-        },
-        {
-            "metadata": {
                 "title": "English Classics",
                 "numberOfItems": 3
             },
@@ -355,8 +345,5 @@
                 }
             ]
         }
-    ],
-    "publications": [
-        
-    ]
+    ]   
 }
