@@ -1,17 +1,4 @@
 {
-    "fields": [{
-        "BOOKING_ID":"1",
-        "Room_Name":"Chennai",
-        "MEETING_FROM":"",
-        "MEETING_TO":"",
-        "Site_Name":"",
-        "BuildingName":"",
-        "FloorName":"",
-        "MEETING_TITLE":"",
-        "Max_Capacity":"",
-        "Features":""
-
-    }],
-    "meetinRoomOutput":[],
-    "message": ""
+    "fields": null,
+    "message": null
 }
